@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "코딩하는 가우"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "GAWOO"
+description              : "It's not amazing, but it's incredible."
 url                      : "https://GAW00.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "GAWOO"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Just Do It!"
+  location         : "Everywhere"
   email            :
   links:
     - label: "Email"
